@@ -4,3 +4,4 @@
 - salt $2
 - pepper $2
 # Instructions 
+- throw avocados in bin
