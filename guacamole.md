@@ -3,6 +3,5 @@
 - lemon $3
 - salt $2
 - pepper $2
-- CONFLICT HERE WE GO
 # Instructions 
-- throw avocados in bin
+- Bring peace to github
